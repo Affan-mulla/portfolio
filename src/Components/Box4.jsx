@@ -1,10 +1,11 @@
 import React from 'react'
 import { FaInstagramSquare, FaLinkedin, FaTwitterSquare  } from "react-icons/fa";
+import { Link } from 'react-router-dom';
 function Box4() {
     return (
         <div className=' bg-zinc-800   bg-opacity-30 backdrop-blur-lg rounded-md border-[1px] border-zinc-500 col-span-3 animate-slideIn2 px-4 py-4 flex  w-full flex-col justify-between'>
             <ul className='md:text-4xl text-2xl font-bold text-zinc-200 cursor-pointer '>
-                <li className='hover:text-zinc-400 transition-all duration-200 ease-in'>.Projects</li>
+                <li className='hover:text-zinc-400 transition-all duration-200 ease-in'><Link to={`/project`}>.Projects</Link></li>
                 <li className='hover:text-zinc-400 transition-all duration-200 ease-in'>.Contact Me</li>
             </ul>
             <ul className='text-4xl text-zinc-200 flex cursor-pointer w-fit'>
