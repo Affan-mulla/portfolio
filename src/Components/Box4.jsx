@@ -10,7 +10,7 @@ function Box4() {
             </ul>
             <ul className='text-4xl text-zinc-200 flex cursor-pointer w-fit'>
                 <li className=' hover:text-zinc-400 transition duration-200 '><a href='https://www.instagram.com/a44a9_/?hl=en'target='blank' ><FaInstagramSquare /></a></li>
-                <li className=' hover:text-zinc-400 transition duration-200 '><a href='' target='blank'><FaLinkedin /></a></li>
+                <li className=' hover:text-zinc-400 transition duration-200 '><a href='https://www.linkedin.com/in/affan-mulla-544341321/' target='blank'><FaLinkedin /></a></li>
                 <li className=' hover:text-zinc-400 transition duration-200 '><a href='https://x.com/AffanMulla077' target='blank'><FaTwitterSquare /></a></li>  
             </ul>
         </div>
