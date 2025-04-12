@@ -11,7 +11,7 @@ const ProjectBox = () => {
                     <Link to={"https://ezybill.vercel.app/register"} ><h1 className='md:text-4xl text-2xl font-bold text-zinc-200 cursor-pointer hover:text-zinc-400 transition duration-200'>EzyBill</h1></Link>
                 </div>
                 <div className=''>
-                    <Link to={"https://ezybill.vercel.app/register"} ><img src="public\ez.png" alt="" className='rounded-md h-[250px] aspect-auto scale-100' /></Link>
+                    <Link to={"https://ezybill.vercel.app/register"} ><img src="ez.png" alt="" className='rounded-md h-[250px] aspect-auto scale-100' /></Link>
                 </div>
                 <div className="">
                     <p className="text-zinc-100">
