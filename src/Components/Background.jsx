@@ -86,7 +86,7 @@ function Background() {
 
   return (
     <>
-      <div className="bg-zinc-950 h-[100vh] w-full fixed z-10">
+      <div className="bg-zinc-950 h-[100vh] w-full fixed z-10 ">
         
         <div className="border-x-2 border-zinc-800 md:mx-10 h-[100vh] z-10 mx-6 bg-transparent"></div>
         <div className="border-y-2 border-zinc-800 h-auto w-full relative bottom-[100vh] md:my-10 md:py-[44vh] bg-transparent "></div>

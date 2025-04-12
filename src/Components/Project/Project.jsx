@@ -1,8 +1,13 @@
 import React from 'react'
+import Background from '../Background'
+import ProjectContainer from './ProjectContainer'
 
 const Project = () => {
   return (
-    <div>Project</div>
+    <div>
+      <Background />
+      <ProjectContainer/>
+    </div>
   )
 }
 

@@ -5,9 +5,9 @@ function Box2() {
     <div className=' bg-zinc-800  bg-opacity-30 backdrop-blur-lg rounded-md border-[1px] border-zinc-500 col-span-9 animate-slideIn2 overflow-x-auto overflow-y-hidden'>
       <div className="h-full border-l-[1px] border-zinc-400 ml-10 flex items-end w-auto justify-center pt-4">
         <div className="h-auto w-full relative bottom-12 grid grid-cols-6 items-end justify-items-center  px-5 pt-4">
-          <div className="md:h-[8rem] h-[4rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700 animate-grow delay-400"></div>
+          <div className="md:h-[10rem] h-[6rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700 animate-grow delay-400"></div>
           <div className="md:h-[9rem] h-[5rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700 animate-grow delay-600"></div>
-          <div className="md:h-[10rem] h-[6rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700  animate-grow delay-800"></div>
+          <div className="md:h-[11rem] h-[7rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700  animate-grow delay-800"></div>
           <div className="md:h-[10rem] h-[6rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700  animate-grow delay-800"></div>
           <div className="md:h-[10rem] h-[6rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700  animate-grow delay-800"></div>
           <div className="md:h-[10rem] h-[6rem] md:w-10 w-8 bg-orange-500 rounded-t-md border-x-[1px] border-t-[1px] border-orange-700  animate-grow delay-800"></div>

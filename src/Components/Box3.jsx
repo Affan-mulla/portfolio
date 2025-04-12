@@ -4,9 +4,16 @@ function Box3() {
     return (
         <div className=' bg-zinc-800  bg-opacity-30 backdrop-blur-lg rounded-md border-[1px] border-zinc-500 col-span-9 px-4 py-3 overflow-x-auto animate-slideIn3'>
             <h1 className='text-4xl text-zinc-400 font-bold mb-2'>About Me</h1>
-            <p className="text-zinc-100">
-  As a dedicated second-year BCA student and a passionate full-stack developer, I am focused on creating dynamic, user-friendly web applications. With a solid foundation in <span className="text-orange-500 font-semibold">HTML, CSS, JavaScript</span> and proficiency in modern libraries like <span className="text-orange-500 font-semibold">React and Tailwind CSS</span>, I build responsive and visually appealing interfaces. My full-stack skills also encompass <span className="text-orange-500 font-semibold">MongoDB, Express.js, and Node.js</span>, allowing me to handle both frontend and backend development effectively. Additionally, I am well-versed in <span className="text-orange-500 font-semibold">C, C++, and Python</span>, equipping me with a versatile approach to problem-solving. I am committed to expanding my skill set and eager to contribute to innovative projects, showcasing my growing expertise in the field.
-</p>
+            <p className="text-zinc-100 text-wrap">
+                Hey there! I’m Mulla Affan, a full-stack web developer with a strong focus on building clean, responsive, and scalable web applications.
+
+                I work with <span className="text-orange-500 font-semibold">HTML, CSS, JavaScript, and React</span> on the frontend to create smooth and user-friendly interfaces. On the backend, I use <span className="text-orange-500 font-semibold">Node.js, Express, and MongoDB</span> to power dynamic and secure applications.
+
+                I enjoy turning ideas into real products and solving real-world problems with code. Whether it's creating a landing page, developing APIs, or building full web platforms, I love being part of the entire development process.
+
+                I’m always up for learning new things, working on exciting projects, and collaborating with like-minded people who are just as passionate about tech as I am.
+
+            </p>
 
         </div>)
 }
