@@ -7,7 +7,7 @@ const ContactMe = () => {
 
     <>
     <Background />
-    <div className='flex justify-center items-center h-screen w-full '>
+    <div className='flex justify-center items-center h-screen  w-full px-10'>
     <ContactForm />
 
     </div>
